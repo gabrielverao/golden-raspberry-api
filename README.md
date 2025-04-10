@@ -80,7 +80,7 @@ Retorna os produtores com:
 ## 🧪 Executando os Testes de integração
 
 ```bash
-test:e2e
+yarn test:e2e
 ```
 
 ---
