@@ -18,7 +18,7 @@ REST API construída com [NestJS](https://nestjs.com/) para processar os vencedo
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/seu-usuario/golden-raspberry-api.git
+git clone https://github.com/gabrielverao/golden-raspberry-api
 cd golden-raspberry-api
 
 yarn install
