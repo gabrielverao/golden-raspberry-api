@@ -6,7 +6,8 @@ REST API construída com [NestJS](https://nestjs.com/) para processar os vencedo
 
 ## 🚀 Tecnologias utilizadas
 
-- Node.js + NestJS
+- Node.js v18+
+- NestJS
 - TypeORM
 - SQLite (em memória)
 - CSV Parser
@@ -76,16 +77,12 @@ Retorna os produtores com:
 
 ---
 
-## 🧪 Executando os testes
+## 🧪 Executando os Testes de integração
 
 ```bash
-yarn test
+yarn test:e2e
 ```
 
 ---
 
 
-## 👨‍💻 Autor
-
-Gabriel Augusto Mikai Verão  
-[LinkedIn](https://www.linkedin.com/in/gabrielverao)
