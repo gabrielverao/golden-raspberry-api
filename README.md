@@ -77,16 +77,12 @@ Retorna os produtores com:
 
 ---
 
-## 🧪 Executando os testes
+## 🧪 Executando os Testes de integração
 
 ```bash
-yarn test
+test:e2e
 ```
 
 ---
 
 
-## 👨‍💻 Autor
-
-Gabriel Augusto Mikai Verão  
-[LinkedIn](https://www.linkedin.com/in/gabrielverao)
