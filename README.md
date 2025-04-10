@@ -6,7 +6,8 @@ REST API construída com [NestJS](https://nestjs.com/) para processar os vencedo
 
 ## 🚀 Tecnologias utilizadas
 
-- Node.js + NestJS
+- Node.js v18+
+- NestJS
 - TypeORM
 - SQLite (em memória)
 - CSV Parser
