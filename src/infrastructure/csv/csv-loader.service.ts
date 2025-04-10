@@ -32,7 +32,6 @@ export class CsvLoaderService {
                 .on('error', (err) => {
                     reject(err);
                 });
-
         });
     }
 }
