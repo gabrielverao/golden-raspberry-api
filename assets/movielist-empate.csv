@@ -1,0 +1,12 @@
+year;title;studios;producers;winner
+2000;Bad Movie A;Studio A;Producer A;yes
+2001;Bad Movie B;Studio A;Producer A;yes
+2010;Bad Movie C;Studio B;Producer B;yes
+2011;Bad Movie D;Studio B;Producer B;yes
+1990;Bad Movie E;Studio C;Producer C;yes
+2000;Bad Movie F;Studio C;Producer C;yes
+2005;Bad Movie G;Studio D;Producer D;yes
+2015;Bad Movie H;Studio D;Producer D;yes
+2003;Bad Movie I;Studio X;Producer E;yes
+2006;Bad Movie J;Studio X;Producer F;
+2007;Bad Movie K;Studio X;Producer G and Producer H;yes
