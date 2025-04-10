@@ -13,7 +13,6 @@ REST API construída com [NestJS](https://nestjs.com/) para processar os vencedo
 - CSV Parser
 - Swagger
 - Jest + Supertest (para testes de integração)
-- Arquitetura baseada em **DDD**
 ---
 
 ## 📦 Instalação
