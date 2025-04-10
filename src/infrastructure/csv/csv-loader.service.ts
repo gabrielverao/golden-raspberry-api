@@ -4,10 +4,13 @@ import * as path from 'path';
 import * as csv from 'csv-parser';
 import { Movie } from 'src/domain/entities/movie.entity';
 import { parseProducers } from 'src/shared/utils/producer-parser';
+import * as dotenv from 'dotenv';
+
+dotenv.config();
 
 @Injectable()
 export class CsvLoaderService {
-    private readonly csvPath = path.resolve(__dirname, '../../../Movielist.csv');
+    private readonly csvPath = path.resolve(process.env.CSV_FILE_PATH || './assets/movielist.csv');
 
     async loadMovies(): Promise<Movie[]> {
         return new Promise((resolve, reject) => {
